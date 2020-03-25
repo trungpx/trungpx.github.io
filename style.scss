@@ -18,7 +18,15 @@ html {
 }
 
 body {
-	background: $white;
+//<body>
+  <div id="wrapper">
+    	<div id="header"></div>
+    	<div id="content"></div>
+    	<div id="footer"></div>
+  </div>
+//</body>
+	
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
