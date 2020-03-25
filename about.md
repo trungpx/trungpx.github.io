@@ -3,13 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+I graduated at Hanoi University of Science and Technology (HUST), Vietnam in 2014, after that I was working for VNPT corporation until 2018 when I started to pursue the PhD degree at Korea Advanced Institute of Science and Technology (KAIST), South Korea.
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Contact me at
+[phamxuantrungbk@gmail.com](phamxuantrungbk@gmail.com)
