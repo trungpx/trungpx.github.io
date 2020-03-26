@@ -1,8 +1,8 @@
 ---
 layout: post
-title: This site is under construction, will be completed soon
+title: This site is under construction, will be completed soon.
 ---
-### First time to use Jekyll
+### First time to use Jekyll.
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
